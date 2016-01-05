@@ -7,25 +7,25 @@ Eazy HTML5 Elements includes material copied from or derived from HTML5. Copyrig
 
 HTML elements are grouped into 5 sections following the HTML5 spec by W3C
 
-= HTML HEADINGS =
+**HTML HEADINGS**  
 h1, h2, h3, h4, h5, h6
 
-= GROUPING HTML CONTENT =
+**GROUPING HTML CONTENT**  
 p, br, pre, blockquote, ol, ul, li, dl, dt, dd, figure, figcaption, div, main
 
-= TEXT LEVEL SEMANTICS =
+**TEXT LEVEL SEMANTICS**  
 a, em, strong, small, s, cite, q, dfn, abbr, data, time, code, var, samp, kbd, sub, sup, i, b, u, mark, ruby, bdi, bdo, span, br, wbr
 
-= EDITS =
+**EDITS**  
 ins, del
 
-= EMBEDDED CONTENT =
+**EMBEDDED CONTENT**  
 img, iframe, embed, object, param, video, audio, source, track
 
-= TABLES =
+**TABLES**  
 table, thead, tfoot, tbody, tr, th, td
 
-= FORMS =
+**FORMS**  
 form, input
 Input types include: 
 Text Field, Password Field, Radio Buttons, Checkbox, Number, Date, Color, Range, Month, Week, Time, Datetime, Datetime Local, E-mail, Telephone Number, URL, File, Select, Datalist, Optgroup, Option, Textarea, Keygen, Progress, Meter, Submit Button
