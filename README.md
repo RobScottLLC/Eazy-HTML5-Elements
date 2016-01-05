@@ -1,4 +1,4 @@
-# Eazy Under Construction
+# Eazy HTML5 Elements
 ##Description
 Eazy HTML5 Elements is a WordPress plugin that displays most HTML elements using a shortcode. 
 This allows theme developers to visualize how HTML elements will display. 
