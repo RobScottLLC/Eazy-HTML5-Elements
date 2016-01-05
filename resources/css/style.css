@@ -1,0 +1,17 @@
+.html-elements{
+	padding-bottom: 2.5em;
+}
+.element-group{
+	padding-top: 2.5em;
+}
+.input-types{
+	padding-top: .75em;
+}
+.eazy-html-descrip{
+	display: none;
+}
+button.eazy-html-button{
+	float: right;
+	margin: 0;
+	padding: 0 3px;
+}
