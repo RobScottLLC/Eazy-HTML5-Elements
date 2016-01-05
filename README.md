@@ -61,16 +61,16 @@ HTML heading elements.
 ![screenshot-01](https://cloud.githubusercontent.com/assets/6818209/12120403/7451b04e-b396-11e5-9d26-e3f8a5d5b13c.jpg)
 
 Elements for grouping HTML content.  
-![screenshot-02](https://cloud.githubusercontent.com/assets/6818209/12120404/74618492-b396-11e5-8a0e-96ff73805b35.jpg)
+![screenshot-02](https://cloud.githubusercontent.com/assets/6818209/12120887/518ca7b0-b398-11e5-800d-d0bee06f2f2a.jpg)
 
 Elements for HTML text level semantics.  
-![screenshot-03](https://cloud.githubusercontent.com/assets/6818209/12120407/7468e8a4-b396-11e5-89bd-ed9c568669f0.jpg)
+![screenshot-03](https://cloud.githubusercontent.com/assets/6818209/12120892/562ba44c-b398-11e5-86cf-c696d227f9f8.jpg)
 
 Elements for editing HTML content.  
 ![screenshot-04](https://cloud.githubusercontent.com/assets/6818209/12120406/74688166-b396-11e5-8cc3-b7fade13aa8d.jpg)
 
 Elements for embedding HTML content. Files are included in /resources.  
-![screenshot-05](https://cloud.githubusercontent.com/assets/6818209/12120409/747a1516-b396-11e5-943f-d594d9aa0d34.jpg)
+![screenshot-05](https://cloud.githubusercontent.com/assets/6818209/12120893/563ba61c-b398-11e5-826d-041d2a73041d.jpg)
 
 Elements for displaying HTML tables.  
 ![screenshot-06](https://cloud.githubusercontent.com/assets/6818209/12120405/74664504-b396-11e5-8170-413d7d2b774e.jpg)
