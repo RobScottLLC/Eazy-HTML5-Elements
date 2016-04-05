@@ -2,7 +2,7 @@
 Contributors: r0bsc0tt
 Tags: debug, theme development, html5, html, css, layout, 
 Requires at least: 4.3.1
-Tested up to: 4.4
+Tested up to: 4.5
 Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
